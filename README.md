@@ -17,6 +17,6 @@ All the codes to the solved problems are in their respective folders. I would ve
 
 I would love to see where this journey takes me in a year or so :heart:
 
-CodeChef - <span style="color:green">abhishalya_</span>
+CodeChef - [abhishalya_](https://codechef.com/users/abhishalya_)
 
-Codeforces - <span style="color:cyan">abhishalya</span>
+Codeforces - [abhishalya](https://codeforces.com/profile/abhishalya)
