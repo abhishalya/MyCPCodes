@@ -1,5 +1,8 @@
 # MyCPCodes
 
+![CodeChef_rating_image](https://i.ibb.co/wWJZPG8/chef.png)
+![Codeforces_rating_image](https://i.ibb.co/R2XvZG8/forces.png)
+
 I have been practicing competitive programming since few days and to keep a track of the problems I solved, I thought it would be nice to have a repository which would keep the codes for all the problems I solved across platforms like [CodeChef](https://codechef.com) and [Codeforces](https://codeforces.com).
 
 Following are the contests I participated in:
