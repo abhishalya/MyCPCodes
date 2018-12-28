@@ -13,7 +13,7 @@ Following are the contests I participated in:
 |   2   |  [Codeforces Round #527 (Div. 3)](https://codeforces.com/contest/1092) |        5*       |  --  |
 |   3   |  [Codeforces Round #528 (Div. 2)](https://codeforces.com/contest/1087) |      2 + 2*     | 2380 |
 |   4   |   [December Cook-Off 2018 Division 2](https://codechef.com/COOK101B)   |      1 + 2*     | 1330 |
-|   5   |  [Codeforces Round #529 (Div. 3)](https://codeforces.com/contest/1095) |      3 + 2*     | 1994 |
+|   5   |  [Codeforces Round #529 (Div. 3)](https://codeforces.com/contest/1095) |      3 + 3*     | 1994 |
 
 `*` represents the problems upsolved (solved after the contest).
 
