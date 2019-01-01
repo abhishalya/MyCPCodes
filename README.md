@@ -7,15 +7,17 @@ I have been practicing competitive programming since few days and to keep a trac
 
 Following are the contests I participated in:
 
-| S. No |                                        Contest name                                       | Problems solved | Rank |
-|:-----:|:-----------------------------------------------------------------------------------------:|:---------------:|:----:|
-|   1   |           [December Long Challenge 2018 Division 2](https://codechef.com/DEC18B)          |      2 + 1*     | 4566 |
-|   2   |           [Codeforces Round #527 (Div. 3)](https://codeforces.com/contest/1092)           |        5*       |  --  |
-|   3   |           [Codeforces Round #528 (Div. 2)](https://codeforces.com/contest/1087)           |      2 + 2*     | 2380 |
-|   4   |             [December Cook-Off 2018 Division 2](https://codechef.com/COOK101B)            |      1 + 2*     | 1330 |
-|   5   |           [Codeforces Round #529 (Div. 3)](https://codeforces.com/contest/1095)           |      3 + 2*     | 1994 |
-|   6   | [Educational Codeforces Round 57 (Rated for Div. 2)](https://codeforces.com/contest/1096) |      2 + 2*     | 3175 |
-|   7   |          [December Lunchtime 2018 Division 2](https://www.codechef.com/LTIME67B)          |        3        |  182 |
+| S. No |                                         Contest name                                         | Problems solved | Rank |
+|:-----:|:--------------------------------------------------------------------------------------------:|:---------------:|:----:|
+|   1   |            [December Long Challenge 2018 Division 2](https://codechef.com/DEC18B)            |      2 + 1*     | 4566 |
+|   2   |             [Codeforces Round #527 (Div. 3)](https://codeforces.com/contest/1092)            |        5*       |  --  |
+|   3   |             [Codeforces Round #528 (Div. 2)](https://codeforces.com/contest/1087)            |      2 + 2*     | 2380 |
+|   4   |              [December Cook-Off 2018 Division 2](https://codechef.com/COOK101B)              |      1 + 2*     | 1330 |
+|   5   |             [Codeforces Round #529 (Div. 3)](https://codeforces.com/contest/1095)            |      3 + 2*     | 1994 |
+|   6   |   [Educational Codeforces Round 57 (Rated for Div. 2)](https://codeforces.com/contest/1096)  |      2 + 2*     | 3075 |
+|   7   |            [December Lunchtime 2018 Division 2](https://www.codechef.com/LTIME67B)           |        3        |  182 |
+|   8   | [ICPC Asia - Amritapuri Site Onsite Replay Contest 2018](https://www.codechef.com/AMR18ROL/) |        1        |  127 |
+|   9   |                     [Good Bye 2018](https://codeforces.com/contest/1091)                     |        1        | 7190 |
 
 `*` represents the problems upsolved (solved after the contest).
 
