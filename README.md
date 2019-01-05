@@ -18,6 +18,8 @@ Following are the contests I participated in:
 |   7   |            [December Lunchtime 2018 Division 2](https://www.codechef.com/LTIME67B)           |        3        |  182 |
 |   8   | [ICPC Asia - Amritapuri Site Onsite Replay Contest 2018](https://www.codechef.com/AMR18ROL/) |        1        |  127 |
 |   9   |                     [Good Bye 2018](https://codeforces.com/contest/1091)                     |        1        | 7190 |
+|   10  |                       [Hello 2019](https://codeforces.com/contest/1097)                      |      2 + 1*     | 5091 |
+|   11  |             [Codeforces Round #530 (Div. 2)](https://codeforces.com/contest/1099)            |      3 + 1*     | 2559 |
 
 `*` represents the problems upsolved (solved after the contest).
 
