@@ -1,40 +1,36 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Previous solution was hacked,
+// so improved the code to pass all tests
+
 int main() {
   int n, k; cin >> n >> k;
-  int a[n], b[n];
-  map<int, int> fq, fq2;
+  vector<int> v[5001];
+  int mx = 0, mx2 = 0;
   for(int i = 0; i < n; i++) {
-    cin >> a[i];
-    b[i] = a[i];
+    int x; cin >> x;
+    v[x].push_back(i);
+    mx2 = max(mx2, x);
   }
-  sort(b, b + n);
-  int mx = 0, cnt = 1;
-  for(int i = 1; i < n; i++) {
-    if(b[i] == b[i - 1]) {
-      cnt++;
-    } else {
-      mx = max(mx, cnt);
-      cnt = 1;
-    }
+  for(int i = 1; i <= mx2; i++) {
+    mx = max(mx, (int)v[i].size());
   }
-  if(k >= mx && k <= n) {
-    cout << "YES\n"; int j = 0;
-    for(int i = 0; i < n; i++) {
-      if(fq[a[i]] >= 1) {
-        cout << (fq2[a[i]] % k) + 1 << " ";
-        fq2[a[i]] = (fq2[a[i]] % k) + 1;
-      } else {
-        cout << (j % k) + 1 << " ";
-        fq2[a[i]] = (j % k) + 1;
-        j++;
+  if(k < mx) {
+    cout << "NO\n";
+  } else {
+    cout << "YES\n";
+    int ans[n], cnt = 1;
+    for(int i = 1; i <= mx2; i++) {
+      for(auto j : v[i]) {
+        ans[j] = cnt++;
+        if(cnt > k) cnt = 1;
       }
-      fq[a[i]]++;
+    }
+    for(int i = 0; i < n; i++) {
+      cout << ans[i] << " ";
     }
     cout << endl;
-  } else {
-    cout << "NO\n";
   }
   return 0;
 }
