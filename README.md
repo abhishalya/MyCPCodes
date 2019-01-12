@@ -20,6 +20,8 @@ Following are the contests I participated in:
 |   9   |                     [Good Bye 2018](https://codeforces.com/contest/1091)                     |        1        | 7190 |
 |   10  |                       [Hello 2019](https://codeforces.com/contest/1097)                      |      2 + 1*     | 5091 |
 |   11  |             [Codeforces Round #530 (Div. 2)](https://codeforces.com/contest/1099)            |      3 + 1*     | 2559 |
+|   12  |             [Codeforces Round #531 (Div. 3)](https://codeforces.com/contest/1102)            |      2 + 1*     | 2292 |
+|   13  |   [Educational Codeforces Round 58 (Rated for Div. 2)](https://codeforces.com/contest/1101)  |      2 + 2*     | 2867 |
 
 `*` represents the problems upsolved (solved after the contest).
 
