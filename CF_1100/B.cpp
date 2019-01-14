@@ -7,17 +7,20 @@ int main() {
   for(int i = 0; i < m; i++) {
     cin >> a[i];
   }
-  int j = 0; map<int, int> mp, mp2;
-  string ans = ""; int rnd = 0, cnt = 0;
+  int j = 0; map<int, int> mp;
+  string ans = "";
   for(int i = 0; i < m; i++) {
-    mp[a[i]]++; mp2[mp[a[i]]]++;
-    if(mp[a[i]] == 1) j++;
-    if(j != 0 && j % n == 0) {
-      ans += '1';
-      rnd++;
-      mp2[1] = 0;
+    if(mp[a[i]] == 0) {
+      j++;
     }
-    else ans += '0';
+    mp[a[i]]++;
+    if(j == n) {
+      ans += '1';
+      for(int k = 1; k <= n; k++) {
+        mp[k]--;
+        if(mp[k] == 0) j--;
+      }
+    } else ans += '0';
   }
   cout << ans << endl;
   return 0;
