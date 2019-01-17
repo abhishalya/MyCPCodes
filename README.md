@@ -22,6 +22,8 @@ Following are the contests I participated in:
 |   11  |             [Codeforces Round #530 (Div. 2)](https://codeforces.com/contest/1099)            |      3 + 1*     | 2559 |
 |   12  |             [Codeforces Round #531 (Div. 3)](https://codeforces.com/contest/1102)            |      2 + 1*     | 2292 |
 |   13  |   [Educational Codeforces Round 58 (Rated for Div. 2)](https://codeforces.com/contest/1101)  |      2 + 2*     | 2867 |
+|   14  |             [Codeforces Round #532 (Div. 2)](https://codeforces.com/contest/1100)            |      1 + 2*     | 3969 |
+|   15  |             [January Challenge 2019 Division 2](https://www.codechef.com/JAN19B)             |        4        | 2673 |
 
 `*` represents the problems upsolved (solved after the contest).
 
