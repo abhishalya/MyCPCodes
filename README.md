@@ -9,7 +9,7 @@ Following are the contests I participated in:
 
 | S. No |                                         Contest name                                         | Problems solved | Rank |
 |:-----:|:--------------------------------------------------------------------------------------------:|:---------------:|:----:|
-|   1   |            [December Long Challenge 2018 Division 2](https://codechef.com/DEC18B)            |      2 + 1*     | 4566 |
+|   1   |               [December Challenge 2018 Division 2](https://codechef.com/DEC18B)              |      2 + 1*     | 4566 |
 |   2   |             [Codeforces Round #527 (Div. 3)](https://codeforces.com/contest/1092)            |        5*       |  --  |
 |   3   |             [Codeforces Round #528 (Div. 2)](https://codeforces.com/contest/1087)            |      2 + 2*     | 2380 |
 |   4   |              [December Cook-Off 2018 Division 2](https://codechef.com/COOK101B)              |      1 + 2*     | 1330 |
@@ -24,6 +24,8 @@ Following are the contests I participated in:
 |   13  |   [Educational Codeforces Round 58 (Rated for Div. 2)](https://codeforces.com/contest/1101)  |      2 + 2*     | 2867 |
 |   14  |             [Codeforces Round #532 (Div. 2)](https://codeforces.com/contest/1100)            |      1 + 2*     | 3969 |
 |   15  |             [January Challenge 2019 Division 2](https://www.codechef.com/JAN19B)             |        4        | 2673 |
+|   16  |             [Codeforces Round #533 (Div. 2)](https://codeforces.com/contest/1105)            |        2        | 3162 |
+|   17  |             [January Cook-Off 2019 Division 2](http://www.codechef.com/COOK102B)             |        2        |  91  |
 
 `*` represents the problems upsolved (solved after the contest).
 
