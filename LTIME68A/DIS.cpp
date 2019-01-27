@@ -14,12 +14,19 @@ int main() {
     }
     int fl = 0;
     if(a[0] != 0 || b[n - 1] != 0) fl = 1;
+    else if(a[n - 1] != b[0]) fl = 1;
     else {
       for(int i = 1; i < n - 1; i++) {
-        if(a[i] != b[n - i - 1]) {
+        if(a[i] + b[i] < a[n - 1]) {
           fl = 1; break;
         }
-        if(2 * a[i] < a[n - 1]) {
+        if(a[i] == 0 || b[i] == 0) {
+          fl = 1; break;
+        }
+        if(a[i] > a[n - 1] + b[i]) {
+          fl = 1; break;
+        }
+        if(b[i] > b[0] + a[i]) {
           fl = 1; break;
         }
       }
