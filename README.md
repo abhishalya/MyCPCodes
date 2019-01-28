@@ -26,6 +26,10 @@ Following are the contests I participated in:
 |   15  |             [January Challenge 2019 Division 2](https://www.codechef.com/JAN19B)             |        4        | 2673 |
 |   16  |             [Codeforces Round #533 (Div. 2)](https://codeforces.com/contest/1105)            |        2        | 3162 |
 |   17  |             [January Cook-Off 2019 Division 2](http://www.codechef.com/COOK102B)             |        2        |  91  |
+|   18  |             [Codeforces Round #534 (Div. 2)](https://codeforces.com/contest/1104)            |        3*       |  --  |
+|   19  |             [Codeforces Round #535 (Div. 3)](https://codeforces.com/contest/1108)            |        3*       |  --  |
+|   20  |             [January Lunchtime 2019 Division 1](http://www.codechef.com/LTIME68A)            |      1 + 2*     |  291 |
+|   21  |   [Educational Codeforces Round 59 (Rated for Div. 2)](https://codeforces.com/contest/1107)  |        3        | 2147 |
 
 `*` represents the problems upsolved (solved after the contest).
 
